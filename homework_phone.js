@@ -33,8 +33,4 @@ function printNames(phNumber) {
     }
   }
 }
-printNames("111-111-1111");
-//console.log(nameList);
-/* for (var name in phoneBook) {
-  console.log(phoneBook[name]);
-} */
+printNames("333-333-3333");
